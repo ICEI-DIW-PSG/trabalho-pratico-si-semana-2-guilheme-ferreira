@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    padding: 0;
+    padding-top: 0;
+    margin: auto;
+}
+
+header {
+    align-items: center;
+    padding-top: 0;
+}
+
+nav {
+    background-color: #5ba7d1;
+    padding: 25px;
+    width: 100%;
+    top: 0%;
+    height: 5px;
+}
+
+#linha {
+    display: inline;
+    padding: 100px;
+}
+
+a {
+    font-family: Verdana; color: white;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+#menu {
+    margin-top: 0;
+}
+
+
+h1 {
+    font-family: Verdana; color: #335384;
+    padding-left: 15px;
+    
+}
+
+h2 {
+    font-family: Verdana; color: #5ba7d1;
+    text-align: center;
+    padding-top: 30px;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+main {
+    width: 75%;
+    float: right;
+    height: auto;
+
+}
+
+p {
+    text-align: justify;
+    font-family: Arial;
+    padding-left: 15px;
+}
+
+li {
+    text-align: justify;
+    font-family: arial;
+
+}
+
+aside {
+    width: 25%;
+    background-color: #335384;
+    float: left;
+    padding-bottom: 25%;
+}
+
+#barra-lateral {
+    color: white;
+    text-align: left;
+
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    padding-left: 40px;
+    padding-top: 30px;
+}

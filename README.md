@@ -3,9 +3,11 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Guilherme Ferreira De Lima
+- Matricula: 902424
 
 ## Print da tela da página criada (Curriculum Vitae)
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da tela da página criada](public/print_site.png)
+
+
